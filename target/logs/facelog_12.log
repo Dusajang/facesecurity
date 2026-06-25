@@ -1,0 +1,14 @@
+[11:04:33.246] [PERF] Socket Opened (Port 5001): 18ms
+[11:04:34.028] [PERF] Splash/Icon Visible: 803ms (Diff: 785ms)
+[11:04:34.145] [PERF] JNA Library Loaded: 923ms (Diff: 120ms)
+[11:04:34.152] [PERF] Before FaceSecApp(): 926ms
+[11:04:34.292] [SYS] [설정] SETUP.INI 없음. 기본 저장 경로 사용
+[11:04:34.295] [SYS] ============================================
+[11:04:34.296] [SYS]     PROGRAM STARTED (Fast Text-Init Mode) 
+[11:04:34.297] [SYS] ============================================
+[11:04:34.744] [PERF] UI Build Finished: 452ms from Constructor start
+[11:04:34.763] [PERF] App Visible & Ready: 1541ms
+[11:04:34.759] [PERF] [Thread] AI Loading Started
+[11:04:34.787] [PERF] [Thread] OpenCV/DLL Loaded: 28ms
+[11:04:34.792] [ER] [오류] 모델 파일이 없습니다: C:\Users\user\Desktop\STS4WorkSpace\facesec\target\model\face_model.onnx
+[11:04:34.794] [PERF] [Thread] Total AI Setup Time: 34ms

@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Run FaceSecApp",
+        "request": "launch",
+        "mainClass": "com.example.facesec.FaceSecApp",
+        "projectName": "facesec",
+        "cwd": "${workspaceFolder}",
+        "console": "integratedTerminal"
+      }
+    ]
+  }
+  

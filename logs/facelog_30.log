@@ -1,0 +1,32 @@
+[13:46:11.897] [PERF] Socket Opened (Port 5001): 18ms
+[13:46:12.405] [PERF] Splash/Icon Visible: 528ms (Diff: 510ms)
+[13:46:12.522] [PERF] JNA Library Loaded: 648ms (Diff: 120ms)
+[13:46:12.527] [PERF] Before FaceSecApp(): 651ms
+[13:46:12.605] [SYS] [설정] 디버그 모드: ON
+[13:46:12.608] [SYS] ============================================
+[13:46:12.609] [SYS]     PROGRAM STARTED (Fast Text-Init Mode) 
+[13:46:12.610] [SYS] ============================================
+[13:46:13.071] [PERF] UI Build Finished: 467ms from Constructor start
+[13:46:13.075] [PERF] [Thread] AI Loading Started
+[13:46:13.080] [PERF] [Thread] OpenCV/DLL Loaded: 5ms
+[13:46:13.088] [PERF] App Visible & Ready: 1214ms
+[13:46:14.081] [AI] [시스템] ArcFace 모델 로드 성공 (Net 초기화 완료)
+[13:46:14.082] [PERF] [Thread] ONNX Model Parsed: 1002ms
+[13:46:14.189] [PERF] [Thread] User DB Loaded (232 users): 107ms
+[13:46:14.191] [PERF] [Thread] Total AI Setup Time: 1116ms
+[15:29:41.954] [PERF] Socket Opened (Port 5001): 22ms
+[15:29:42.482] [PERF] Splash/Icon Visible: 552ms (Diff: 530ms)
+[15:29:42.608] [PERF] JNA Library Loaded: 680ms (Diff: 128ms)
+[15:29:42.611] [PERF] Before FaceSecApp(): 682ms
+[15:29:42.692] [SYS] [설정] 디버그 모드: ON
+[15:29:42.696] [SYS] ============================================
+[15:29:42.696] [SYS]     PROGRAM STARTED (Fast Text-Init Mode) 
+[15:29:42.697] [SYS] ============================================
+[15:29:43.153] [PERF] UI Build Finished: 462ms from Constructor start
+[15:29:43.160] [PERF] [Thread] AI Loading Started
+[15:29:43.169] [PERF] [Thread] OpenCV/DLL Loaded: 9ms
+[15:29:43.177] [PERF] App Visible & Ready: 1242ms
+[15:29:44.032] [AI] [시스템] ArcFace 모델 로드 성공 (Net 초기화 완료)
+[15:29:44.034] [PERF] [Thread] ONNX Model Parsed: 864ms
+[15:29:44.193] [PERF] [Thread] User DB Loaded (232 users): 160ms
+[15:29:44.194] [PERF] [Thread] Total AI Setup Time: 1034ms
