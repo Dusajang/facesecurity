@@ -2691,12 +2691,12 @@ public class FaceSecApp {
                 String handshake = readString(in);
                 
                 // [수정] 핸드쉐이크 실패 시 응답 없이 즉시 종료 (Silent Drop)
-                if (handshake == null || !handshake.equals("raonraon")) {
+                if (handshake == null || !handshake.equals("")) {
                     return; // 여기서 함수가 끝나면 소켓도 자동으로 닫힘
                 }
                 
                 // 성공 시에만 응답
-                sendString(out, "raonnice");
+                sendString(out, "");
                 
                 // =========================================================
                 // ★★★ 진짜 웹뷰로 확인되었으니 타임아웃 해제 ★★★
